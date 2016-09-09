@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jonatanvazquez/verificador_website/issues"
   },
-  "homepage": "https://github.com/jonatanvazquez/verificador_website#readme"
+  "homepage": "https://github.com/jonatanvazquez/verificador_website#readme",
+  "dependencies": {
+    "check-domain": "^1.1.1",
+    "gpagespeed": "^3.0.0"
+  }
 }
